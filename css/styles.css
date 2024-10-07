@@ -41,6 +41,9 @@ body {
   width: 90%;
   height: 50vh;
 }
+.contenedor h2 {
+  font-size: 60px;
+}
 .contenedor .habitacion {
   display: flex;
   font-size: 60px;
